@@ -8,6 +8,8 @@ TagManager:
   - vaccine
   - good items
   - Points
+  - medicine
+  - wash
   layers:
   - Default
   - TransparentFX

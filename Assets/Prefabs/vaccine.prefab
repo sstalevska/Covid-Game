@@ -14,7 +14,7 @@ GameObject:
   - component: {fileID: 5202720553441567805}
   m_Layer: 0
   m_Name: vaccine
-  m_TagString: good items
+  m_TagString: vaccine
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0

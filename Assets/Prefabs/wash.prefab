@@ -14,7 +14,7 @@ GameObject:
   - component: {fileID: 327499227244206558}
   m_Layer: 0
   m_Name: wash
-  m_TagString: good items
+  m_TagString: wash
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
